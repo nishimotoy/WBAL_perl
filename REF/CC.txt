@@ -1,0 +1,226 @@
+IEA	IEA国名	旧名称 MATCH 	CC	AIM23	AIM17	コード付与作業メモ
+ALBANIA	Albania	Albania	ALB	XRW	XER	
+ALGERIA	Algeria	Algeria	DZA	XAF	XNF	
+ANGOLA	Angola	Angola	AGO	XAF	XAF	
+ARGENTINA	Argentina	Argentina	ARG	ARG	XLM	
+ARMENIA	Armenia	Armenia	ARM	XRW	CIS	
+AUSTRALI	Australia	Australia	AUS	AUS	XOC	
+AUSTRIA	Austria	Austria	AUT	XE15	XE25	
+AZERBAIJAN	Azerbaijan	Azerbaijan	AZE	XRW	CIS	
+BAHRAIN	Bahrain	Bahrain	BHR	XME	XME	
+BANGLADESH	Bangladesh	Bangladesh	BGD	XSA	XSA	
+BELARUS	Belarus	Belarus	BLR	XRW	CIS	
+BELGIUM	Belgium	Belgium	BEL	XE15	XE25	
+BENIN	Benin	Benin	BEN	XAF	XAF	
+VENEZUELA	Bolivarian Republic of Venezuela	Venezuela	VEN	XLM	XLM	
+BOSNIAHERZ	Bosnia and Herzegovina	Bosnia and Herzegovina	BIH	XRW	XER	
+BOTSWANA	Botswana	Botswana	BWA	XAF	XAF	
+BRAZIL	Brazil	Brazil	BRA	BRA	BRA	
+BRUNEI	Brunei Darussalam	Brunei Darussalam	BRN	XSE	XSA	旧AIM23コードから変更
+BULGARIA	Bulgaria	Bulgaria	BGR	XRW	XER	
+CAMBODIA	Cambodia	Cambodia	KHM	XSE	XSE	
+CAMEROON	Cameroon	Cameroon	CMR	XAF	XAF	
+CANADA	Canada	Canada	CAN	CAN	CAN	
+CHILE	Chile	Chile	CHL	XLM	XLM	
+TAIPEI	Chinese Taipei	Taiwan	TWN	XRW	XSE	
+COLOMBIA	Colombia	Colombia	COL	XLM	XLM	
+COSTARICA	Costa Rica	Costa Rica	CRI	XLM	XLM	
+CROATIA	Croatia	Croatia	HRV	XRW	XER	
+CUBA	Cuba	Cuba	CUB	XLM	XLM	
+CURACAO	Cura軋o/Netherlands Antilles	Netherlands Antilles	ANT	XLM	XLM	オランダ領アンタイル（旧称キュラソー植民地）は2010年に解体、解体後もオランダ領との位置づけ
+CYPRUS	Cyprus	Cyprus	CYP	XE10	XE25	
+CZECH	Czech Republic	Czech Republic	CZE	XE10	XE25	
+COTEIVOIRE	Ce d'Ivoire	C?te d'Ivoire	CIV	XAF	XAF	
+KOREADPR	Democratic People's Republic of Korea	Democratic People's Republic of Korea	PRK	XRW	XSE	
+CONGOREP	Democratic Republic of the Congo	Democratic Republic of the Congo	COD	XAF	XAF	
+DENMARK	Denmark	Denmark	DNK	XE15	XE25	
+DOMINICANR	Dominican Republic	Dominican Republic	DOM	XLM	XLM	
+ECUADOR	Ecuador	Ecuador	ECU	XLM	XLM	
+EGYPT	Egypt	Egypt	EGY	XAF	XNF	
+ELSALVADOR	El Salvador	El Salvador	SLV	XLM	XLM	
+EQGUINEA	Equatorial Guinea	Equatorial Guinea	GNQ	XAF	XAF	
+ERITREA	Eritrea	Eritrea	ERI	XAF	XAF	
+ESTONIA	Estonia	Estonia	EST	XE10	XE25	
+ETHIOPIA	Ethiopia	Ethiopia	ETH	XAF	XAF	
+FINLAND	Finland	Finland	FIN	XE15	XE25	
+FSUND	Former Soviet Union (if no detail)	#N/A	FSUN	RUS	CIS	FSUN付与、ISO 3166-1がSUNだったため。Fから始まる4桁は現存しない歴史配分の対象となる地域向けのコードとする、FSUN=XRW＋RUS
+YUGOND	Former Yugoslavia (if no detail)	#N/A	FYUG	XRW	XER	FYUG付与、歴史配分の対象
+FRANCE	France	France	FRA	XE15	XE25	
+GABON	Gabon	Gabon	GAB	XAF	XAF	
+GEORGIA	Georgia	Georgia	GEO	XRW	CIS	
+GERMANY	Germany	Germany	DEU	XE15	XE25	
+GHANA	Ghana	Ghana	GHA	XAF	XAF	
+GIBRALTAR	Gibraltar	Gibraltar	GIB	XRW	XER	
+GREECE	Greece	Greece	GRC	XE15	XE25	
+GUATEMALA	Guatemala	Guatemala	GTM	XLM	XLM	
+HAITI	Haiti	Haiti	HTI	XLM	XLM	
+HONDURAS	Honduras	Honduras	HND	XLM	XLM	
+HONGKONG	Hong Kong (China)	China, Hong Kong Special Administrative Region	HKG	CHN	CHN	
+HUNGARY	Hungary	Hungary	HUN	XE10	XE25	
+ICELAND	Iceland	Iceland	ISL	XRW	XER	
+INDIA	India	India	IND	IND	IND	
+INDONESIA	Indonesia	Indonesia	IDN	IDN	XSE	
+IRAQ	Iraq	Iraq	IRQ	XME	XME	
+IRELAND	Ireland	Ireland	IRL	XE15	XE25	
+IRAN	Islamic Republic of Iran	Iran (Islamic Republic of)	IRN	XME	XME	
+ISRAEL	Israel	Israel	ISR	XME	XME	
+ITALY	Italy	Italy	ITA	XE15	XE25	
+JAMAICA	Jamaica	Jamaica	JAM	XLM	XLM	
+JAPAN	Japan	Japan	JPN	JPN	JPN	
+JORDAN	Jordan	Jordan	JOR	XME	XME	
+KAZAKHSTAN	Kazakhstan	Kazakhstan	KAZ	XRW	CIS	
+KENYA	Kenya	Kenya	KEN	XAF	XAF	
+KOREA	Korea	Republic of Korea	KOR	KOR	XSE	
+KOSOVO	Kosovo	#N/A	KVX	XRW	XER	KVX、2008年独立、コソボ＞セルビア自治州＞ユーゴ
+KUWAIT	Kuwait	Kuwait	KWT	XME	XME	
+KYRGYZSTAN	Kyrgyzstan	Kyrgyzstan	KGZ	XRW	CIS	
+LAO	Lao People's Democratic Republic	Lao People's Democratic Republic	LAO	XSE	XSE	
+LATVIA	Latvia	Latvia	LVA	XE10	XE25	
+LEBANON	Lebanon	Lebanon	LBN	XME	XME	
+LIBYA	Libya	Libyan Arab Jamahiriya	LBY	XAF	XNF	2013年国名変更
+LITHUANIA	Lithuania	Lithuania	LTU	XE10	XE25	
+LUXEMBOU	Luxembourg	Luxembourg	LUX	XE15	XE25	
+MALAYSIA	Malaysia	Malaysia	MYS	XSE	XSE	
+MALTA	Malta	Malta	MLT	XE10	XE25	
+MAURITIUS	Mauritius	Mauritius	MUS	XAF	XAF	
+AFGHANIS	Memo*: Afghanistan	Afghanistan	AFG	XRW	XSA	
+AMSAMOA	Memo*: American Samoa	American Samoa	ASM	XRW	XOC	
+ANGUILLA	Memo*: Anguilla	Anguilla	AIA	XLM	XLM	
+ANTIGUA	Memo*: Antigua and Barbuda	Antigua and Barbuda	ATG	XLM	XLM	
+ARUBA	Memo*: Aruba	Aruba	ABW	XLM	XLM	
+BAHAMAS	Memo*: Bahamas	Bahamas	BHS	XLM	XLM	
+BARBADOS	Memo*: Barbados	Barbados	BRB	XLM	XLM	
+BELIZE	Memo*: Belize	Belize	BLZ	XLM	XLM	
+BERMUDA	Memo*: Bermuda	Bermuda	BMU	XRW	XLM	
+BHUTAN	Memo*: Bhutan	Bhutan	BTN	XSA	XSA	
+BES	Memo*: Bonaire, Sint Eustatius and Saba	#N/A	BES	XLM	XLM	カリブ海の島、旧オランダ領アンタイルの解体、2010年～、BES付与
+BVI	Memo*: British Virgin Islands	British Virgin Islands	VGB	XLM	XLM	
+BURKINA	Memo*: Burkina Faso	Burkina Faso	BFA	XAF	XAF	
+BURUNDI	Memo*: Burundi	Burundi	BDI	XAF	XAF	
+CABOVERDE	Memo*: Cabo Verde	Cape Verde	CPV	XAF	XAF	西アフリカの島、1975年ポルトガルから独立
+CAYMAN	Memo*: Cayman Islands	Cayman Islands	CYM	XLM	XLM	
+CAFRICREP	Memo*: Central African Republic	Central African Republic	CAF	XAF	XAF	
+CHAD	Memo*: Chad	Chad	TCD	XAF	XAF	
+MACAO	Memo*: China, Macao Special Administrative Region	China, Macao Special Administrative Region	MAC	CHN	CHN	
+COMOROS	Memo*: Comoros	Comoros	COM	XAF	XAF	
+COOK	Memo*: Cook Islands	Cook Islands	COK	XRW	XOC	
+DJIBOUTI	Memo*: Djibouti	Djibouti	DJI	XAF	XAF	
+DOMINICA	Memo*: Dominica	Dominica	DMA	XLM	XLM	
+MALVINAS	Memo*: Falkland Islands (Malvinas)	Falkland Islands (Malvinas)	FLK	XLM	XLM	
+FIJI	Memo*: Fiji	Fiji	FJI	XRW	XOC	
+FGUYANA	Memo*: French Guiana	French Guiana	GUF	XLM	XLM	
+FPOLYNESIA	Memo*: French Polynesia	French Polynesia	PYF	XRW	XOC	
+GAMBIA	Memo*: Gambia	Gambia	GMB	XAF	XAF	
+GRENADA	Memo*: Grenada	Grenada	GRD	XLM	XLM	
+GUADELOUPE	Memo*: Guadeloupe	Guadeloupe	GLP	XLM	XLM	
+GUINEA	Memo*: Guinea	Guinea	GIN	XAF	XAF	
+GUINEABIS	Memo*: Guinea-Bissau	Guinea-Bissau	GNB	XAF	XAF	
+ESWATINI	Memo*: Kingdom of Eswatini	Swaziland	SWZ	XAF	XAF	2018年国名変更
+KIRIBATI	Memo*: Kiribati	Kiribati	KIR	XRW	XOC	
+LESOTHO	Memo*: Lesotho	Lesotho	LSO	XAF	XAF	
+LIBERIA	Memo*: Liberia	Liberia	LBR	XAF	XAF	
+MALAWI	Memo*: Malawi	Malawi	MWI	XAF	XAF	
+MALDIVES	Memo*: Maldives	Maldives	MDV	XSA	XSA	
+MARSHALL	Memo*: Marshall Islands	Marshall Islands	MHL	XRW	XOC	
+MARTINIQUE	Memo*: Martinique	Martinique	MTQ	XLM	XLM	
+MAURITANIA	Memo*: Mauritania	Mauritania	MRT	XAF	XAF	
+MAYOTTE	Memo*: Mayotte	#N/A	MYT	XAF	XAF	MYT, アフリカの南東部の島
+MICRONESIA	Memo*: Micronesia (Federated States of)	Federated States of Micronesia	FSM	XRW	XOC	オセアニア
+MONTSERRAT	Memo*: Montserrat	Montserrat	MSR	XLM	XLM	
+NAURU	Memo*: Nauru	Nauru	NRU	XRW	XOC	
+CALEDONIA	Memo*: New Caledonia	New Caledonia	NCL	XRW	XOC	
+NIUE	Memo*: Niue	Niue	NIU	XRW	XOC	
+PALAU	Memo*: Palau	Palau	PLW	XRW	XOC	
+PAPUA	Memo*: Papua New Guinea	Papua New Guinea	PNG	XRW	XOC	
+PUERTORICO	Memo*: Puerto Rico	Puerto Rico	PRI	XLM	XLM	
+REUNION	Memo*: Reunion	R?union	REU	XAF	XAF	
+SHELENA	Memo*: Saint Helena	Saint Helena	SHN	XAF	XAF	
+SKITTS	Memo*: Saint Kitts and Nevis	Saint Kitts and Nevis	KNA	XLM	XLM	
+SLUCIA	Memo*: Saint Lucia	Saint Lucia	LCA	XLM	XLM	
+SPIERRE	Memo*: Saint Pierre and Miquelon	Saint Pierre et Miquelon	SPM	XRW	XOC	
+SVINCENT	Memo*: Saint Vincent and the Grenadines	Saint Vincent and the Grenadines	VCT	XLM	XLM	
+SAMOA	Memo*: Samoa	Samoa	WSM	XRW	XOC	
+SAOTOME	Memo*: Sao Tome and Principe	Sao Tome and Principe	STP	XAF	XAF	
+SEYCHELLES	Memo*: Seychelles	Seychelles	SYC	XAF	XAF	
+SIERRALEO	Memo*: Sierra Leone	Sierra Leone	SLE	XAF	XAF	
+SMAARTEN	Memo*: Sint Maarten (Dutch part)	#N/A	SMD	XLM	XLM	カリブ海の島、北部が仏領サン・マルタン:SMF、南部がオランダ領シント・マールテン:SMD
+SOLOMON	Memo*: Solomon Islands	Solomon Islands	SLB	XRW	XOC	
+SOMALIA	Memo*: Somalia	Somalia	SOM	XAF	XAF	
+TIMORLESTE	Memo*: Timor-Leste	Timor-Leste	TMP	XRW	XOC	
+TONGA	Memo*: Tonga	Tonga	TON	XRW	XOC	
+TURKSCAIC	Memo*: Turks and Caicos Islands	Turks and Caicos Islands	TCA	XLM	XLM	
+TUVALU	Memo*: Tuvalu	Tuvalu	TUV	XRW	XOC	
+VANUATU	Memo*: Vanuatu	Vanuatu	VUT	XRW	XOC	
+WALLIS	Memo*: Wallis and Futuna Islands	Wallis and Futuna Islands	WLF	XRW	XOC	
+MGREENLAND	Memo: Greenland	Greenland	GRL	XRW	XLM	デンマーク自治領　なおアイスランドはXER
+MGUYANA	Memo: Guyana	Guyana	GUY	XLM	XLM	
+MMADAGASCA	Memo: Madagascar	Madagascar	MDG	XAF	XAF	
+MMALI	Memo: Mali	Mali	MLI	XAF	XAF	
+MPALESTINE	Memo: Palestinian Authority	Occupied Palestinian Territory	PSE	XRW	XME	
+MUGANDA	Memo: Uganda	Uganda	UGA	XAF	XAF	
+MEXICO	Mexico	Mexico	MEX	MEX	XLM	
+MONGOLIA	Mongolia	Mongolia	MNG	XRW	XSE	
+MONTENEGRO	Montenegro	Montenegro	MON	XRW	XER	
+MOROCCO	Morocco	Morocco	MAR	XAF	XNF	
+MOZAMBIQUE	Mozambique	Mozambique	MOZ	XAF	XAF	
+MYANMAR	Myanmar	Myanmar	MMR	XSE	XSE	
+NAMIBIA	Namibia	Namibia	NAM	XAF	XAF	
+NEPAL	Nepal	Nepal	NPL	XSA	XSA	
+NETHLAND	Netherlands	Netherlands	NLD	XE15	XE25	
+NZ	New Zealand	New Zealand	NZL	NZL	XOC	
+NICARAGUA	Nicaragua	Nicaragua	NIC	XLM	XLM	
+NIGER	Niger	Niger	NER	XAF	XAF	
+NIGERIA	Nigeria	Nigeria	NGA	XAF	XAF	
+NORWAY	Norway	Norway	NOR	XRW	XER	
+OMAN	Oman	Oman	OMN	XME	XME	
+OTHERAFRIC	Other Africa		-	XAF	XAF	Burkina Faso; Burundi; Cape Verde; Central African Republic; Chad; Comoros; Djibouti; the Kingdom of Eswatini; Gambia; Guinea; Guinea-Bissau; Lesotho; Liberia; Madagascar; Malawi; Mali; Mauritania; Namibia (until 1990); Niger (until 1999); Reunion (until 2010); Rwanda; Sao Tome and Principe; Seychelles; Sierra Leone; Somalia; and Uganda.  
+OTHERLATIN	Other non-OECD Americas		-	XLM	XLM	Anguilla, Antigua and Barbuda; Aruba; Bahamas; Barbados; Belize; Bermuda; British Virgin Islands; Cayman Islands; Dominica; Falkland Islands (Malvinas); French Guiana (until 2010); Grenada; Guadeloupe (until 2010); Guyana; Martinique (until 2010); Montserrat; Puerto Rico8 (for natural gas); Saba (from 2012); Saint Eustatius (from 2012); Saint Kitts and Nevis; Saint Lucia; Saint Pierre and Miquelon; Saint Vincent and the Grenadines; Sint Maarten (from 2012); Suriname (until 1999); and the Turks and Caicos Islands.
+OTHERASIA	Other non-OECD Asia		-	XRW	XSE	Afghanistan(XSA); Bhutan(XSA); Cambodia(XSE) (until 1994); Cook Islands; East Timor; Fiji; French Polynesia; Kiribati; Lao People’s Democratic Republic (until 1999); Macau, China; Maldives; Mongolia (until 1984); New Caledonia; Palau (from 1994); Papua New Guinea; Samoa; Solomon Islands; Tonga and Vanuatu.
+PAKISTAN	Pakistan	Pakistan	PAK	XSA	XSA	
+PANAMA	Panama	Panama	PAN	XLM	XLM	
+PARAGUAY	Paraguay	Paraguay	PRY	XLM	XLM	
+CHINA	People's Republic of China	China	CHN	CHN	CHN	
+PERU	Peru	Peru	PER	XLM	XLM	
+PHILIPPINE	Philippines	Philippines	PHL	XSE	XSE	
+BOLIVIA	Plurinational State of Bolivia	Bolivia	BOL	XLM	XLM	
+POLAND	Poland	Poland	POL	XE10	XE25	
+PORTUGAL	Portugal	Portugal	PRT	XE15	XE25	
+QATAR	Qatar	Qatar	QAT	XME	XME	
+MOLDOVA	Republic of Moldova	Republic of Moldova	MDA	XRW	CIS	
+NORTHMACED	Republic of North Macedonia	The former Yugoslav Republic of Macedonia	MKD	XRW	XER	2019年国名変更
+CONGO	Republic of the Congo	Congo	COG	XAF	XAF	
+ROMANIA	Romania	Romania	ROM	XRW	XER	
+RUSSIA	Russian Federation	Russian Federation	RUS	RUS	CIS	
+SAUDIARABI	Saudi Arabia	Saudi Arabia	SAU	XME	XME	
+SENEGAL	Senegal	Senegal	SEN	XAF	XAF	
+SERBIA	Serbia	Serbia	SCG	XRW	XER	
+SINGAPORE	Singapore	Singapore	SGP	XSE	XSE	
+SLOVAKIA	Slovak Republic	Slovakia	SVK	XE10	XE25	
+SLOVENIA	Slovenia	Slovenia	SVN	XE10	XE25	
+SOUTHAFRIC	South Africa	South Africa	ZAF	ZAF	XAF	
+SSUDAN	South Sudan	#N/A	SSD	XAF	XAF	2011年独立, Sudanとは別、SSD付与
+SPAIN	Spain	Spain	ESP	XE15	XE25	
+SRILANKA	Sri Lanka	Sri Lanka	LKA	XSA	XSA	
+SUDAN	Sudan	Sudan	SDN	XAF	XAF	
+SURINAME	Suriname	Suriname	SUR	XLM	XLM	
+SWEDEN	Sweden	Sweden	SWE	XE15	XE25	
+SWITLAND	Switzerland	Switzerland	CHE	XRW	XER	
+SYRIA	Syrian Arab Republic	Syrian Arab Republic	SYR	XME	XME	
+TAJIKISTAN	Tajikistan	Tajikistan	TJK	XRW	CIS	
+THAILAND	Thailand	Thailand	THA	THA	XSE	
+TOGO	Togo	Togo	TGO	XAF	XAF	
+TRINIDAD	Trinidad and Tobago	Trinidad and Tobago	TTO	XLM	XLM	
+TUNISIA	Tunisia	Tunisia	TUN	XAF	XNF	
+TURKEY	Turkey	Turkey	TUR	XRW	TUR	
+TURKMENIST	Turkmenistan	Turkmenistan	TKM	XRW	CIS	
+UKRAINE	Ukraine	Ukraine	UKR	XRW	CIS	
+UAE	United Arab Emirates	United Arab Emirates	ARE	XME	XME	
+UK	United Kingdom	United Kingdom	GBR	XE15	XE25	
+TANZANIA	United Republic of Tanzania	United Republic of Tanzania	TZA	XAF	XAF	
+USA	United States	United States of America	USA	USA	USA	
+URUGUAY	Uruguay	Uruguay	URY	XLM	XLM	
+UZBEKISTAN	Uzbekistan	Uzbekistan	UZB	XRW	CIS	
+VIETNAM	Viet Nam	Viet Nam	VNM	XSE	XSE	
+YEMEN	Yemen	Yemen	YEM	XME	XME	
+ZAMBIA	Zambia	Zambia	ZMB	XAF	XAF	
+ZIMBABWE	Zimbabwe	Zimbabwe	ZWE	XAF	XAF	

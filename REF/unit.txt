@@ -1,0 +1,25 @@
+CO2_fuel_Bio.csv	kt-CO2
+CO2_fuel_Coal.csv	kt-CO2
+CO2_fuel_Gas.csv	kt-CO2
+CO2_fuel_Oil.csv	kt-CO2
+CO2_fuel_Total.csv	kt-CO2
+GDP_IEA.csv	billion USD 2015
+POP_IEA.csv	millions
+TES_Bio.csv	TJ
+TES_Coal.csv	TJ
+TES_Gas.csv	TJ
+TES_Oil.csv	TJ
+TES_Total.csv	TJ
+TFC_Elec_Total.csv	TJ
+TFC_Elec_AgFo.csv	TJ
+TFC_Elec_Com.csv	TJ
+TFC_Elec_Ind.csv	TJ
+TFC_Elec_Res.csv	TJ
+TFC_Elec_Tra.csv	TJ
+TFC_Total.csv	TJ
+TFC_Total_Total.csv	TJ
+TFC_Total_AgFo.csv	TJ
+TFC_Total_Com.csv	TJ
+TFC_Total_Ind.csv	TJ
+TFC_Total_Res.csv	TJ
+TFC_Total_Tra.csv	TJ
